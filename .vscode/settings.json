@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "limits": "c",
+        "rlutil.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
